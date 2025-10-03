@@ -1,6 +1,3 @@
-# projet_ml_data_science_fast.py
-# Objectif : classification (breast cancer) — entraînement, évaluation, sauvegarde modèle
-# Dépendances : scikit-learn, pandas, matplotlib, pickle
 
 import pandas as pd
 import numpy as np
